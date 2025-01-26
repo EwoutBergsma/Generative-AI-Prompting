@@ -1,4 +1,4 @@
-# Quickstart to LLM writing
+# Quickstart to LLM Writing
 
 *The process of writing scientific documents has long been both an art and a science, demanding clarity, rigor, and precision. Whether drafting research papers, grant proposals, or review articles, scientists must navigate a challenging landscape of technical complexity, structured formats, and the need to effectively communicate with diverse audiences. The advent of large language models (LLMs), such as ChatGPT, offers a transformative tool for assisting in this intricate process.*
 
