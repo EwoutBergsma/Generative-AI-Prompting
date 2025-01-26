@@ -9,7 +9,7 @@ Help me refine the text delimited by angle brackets. Stay close to the original 
 
 Please do not use the following terms: key, crucial, foster, seamless, essential, delve into, vibrant, realm, embark, in the world of, game changer, labyrinth, enigma, a testament to.
 
-Reply in English.
+Reply in English. Do not use canvas, do not search the web.
 
 <REPLACEBUTKEEPANGLEDBRACKETS>
 ```
@@ -20,7 +20,18 @@ Correct the text delimited by angle brackets for grammar, spelling and punctuati
 
 Please do not use the following terms: key, crucial, foster, seamless, essential, delve into, vibrant, realm, embark, in the world of, game changer, labyrinth, enigma, a testament to.
 
-Reply in English.
+Reply in English. Do not use canvas, do not search the web.
+
+<REPLACEBUTKEEPANGLEDBRACKETS>
+```
+
+**Feedback**
+```
+You are an expert teacher in scientific writing and research skills. Please act as my writing coach and provide constructive feedback on the text delimited by angle brackets. Keep each piece of feedback brief and actionable. Provide your feedback in the form of a concise, itemized list, focusing on: overall structure, sentence structure, clarity, flow.
+
+Do not use canvas, and do not search the web.
+
+Reply in English. Do not use canvas, do not search the web.
 
 <REPLACEBUTKEEPANGLEDBRACKETS>
 ```
