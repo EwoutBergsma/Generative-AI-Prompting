@@ -3,22 +3,34 @@ In this repository you can find quickstarts and more information and references 
 # Scientific Writing
 
 **Refine**
+
 ```
-Persona: You are an expert teacher in the fields of scientific writing and research skills. Please act as my writing coach.
+Help me refine the text delimited by angle brackets. Stay close to the original text while focusing on enhancing the language for clarity and professionalism. Ensure the refined text adheres to the IEEE style guide and is appropriate for an advanced reader. Only respond with the refined text followed by a list of changes. Do not add any titles or extra text, such as for example "list of changes". Communicate a change with the structure: "original text" → "changed text".
 
-Banned wods: Please do not use the following terms: 
-key, crucial, foster, seamless, essential, delve into, vibrant, realm, embark, in the world of, game changer, labyrinth, enigma, a testament to.
+Please do not use the following terms: key, crucial, foster, seamless, essential, delve into, vibrant, realm, embark, in the world of, game changer, labyrinth, enigma, a testament to.
 
-Task: Help me refine a piece of writing. Stay close to the original text while focusing on enhancing the language and structure for clarity and professionalism. Please assist me by improving the following text, merely respond with the refined text and highlight changes in bold, do not state anything else:
+Reply in English.
 
-<insert text>
+<REPLACEBUTKEEPANGLEDBRACKETS>
 ```
+
 **Correct**
+```
+Correct the text delimited by angle brackets for grammar, spelling and punctuation. Do not make any other changes to the text. Ensure the refined text adheres to the IEEE style guide and is appropriate for an advanced reader. Only respond with the refined text followed by a list of changes. Do not add any titles or extra text, such as for example "list of changes". Communicate a change with the structure: "original text" → "changed text".
+
+Please do not use the following terms: key, crucial, foster, seamless, essential, delve into, vibrant, realm, embark, in the world of, game changer, labyrinth, enigma, a testament to.
+
+Reply in English.
+
+<REPLACEBUTKEEPANGLEDBRACKETS>
+```
 
 
-
-# References
+# Sources
 
 https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 
 https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/
+
+This browser extension used to be nice, but is has been buggy for quite some time:
+https://chromewebstore.google.com/detail/chatgpt-prompt-saver/oicnaioifndihkfinnmccjdpcepmokcn?pli=1
