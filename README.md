@@ -36,6 +36,25 @@ Reply in English. Do not use canvas, do not search the web.
 <REPLACEBUTKEEPANGLEDBRACKETS>
 ```
 
+**Transformative - Based on other work**
+```
+You are an expert writing assistant specializing in scientific writing and research communication. Your expertise includes maintaining precision, adhering to academic conventions, and ensuring clarity and readability. I will provide a piece of text delimited by angle brackets. Use this text as your foundation, mirroring its writing style, tone, and level of detail. Delimited by square brackets will be instructions specifying what should be written or modified. Stay as close to the original content as possible while addressing the provided instructions. Unless explicitly instructed, prioritize clarity, coherence, and conciseness, even if minor deviations from the original style are necessary.
+
+Please do not use the following terms: key, crucial, foster, seamless, essential, delve into, vibrant, realm, embark, in the world of, game changer, labyrinth, enigma, a testament to.
+
+<REPLACEBYBASISTEXT>
+
+[EXPLAINWHATNEEDSTOBEGENERATED]
+
+```
+
+# Prompt Engineering
+```
+Please help me refine my generative AI prompt. Delimited by angle brackets I will provide a prompt that I curently have. Only respond with the refined text followed by a list of changes.
+
+<REPLACEBUTKEEPANGLEDBRACKETS>
+```
+
 
 # Sources
 
